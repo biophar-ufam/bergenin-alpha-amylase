@@ -1,0 +1,11 @@
+receptor = 4w93_alpha_amylase_prep_maestro_with_cofactors.pdbqt
+flex = 4w93_flexible_receptor_2A_cutoff_alpha_amylase_prep_maestro.pdbqt
+ligand = 4w93_ligand_crystallized_montbretin_A.pdbqt
+center_x = -11.887
+center_y = 3.826
+center_z = -22.744
+size_x = 28.500
+size_y = 24.750
+size_z = 21.000
+out = vina_run2_redocking_result_flexible_receptor_4w93_alpha_amylase_with_cofactors_experimental_binding_site.pdbqt
+exhaustiveness = 96

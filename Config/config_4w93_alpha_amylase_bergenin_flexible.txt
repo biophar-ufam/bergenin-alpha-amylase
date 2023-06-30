@@ -1,0 +1,11 @@
+receptor = 4w93_alpha_amylase_prep_maestro_with_cofactors.pdbqt
+flex = 4w93_alpha_amylase_prep_maestro_flexible_cutoff_5A.pdbqt
+ligand = bergenin_dft_6_311G.pdbqt
+center_x = -11.887
+center_y = 3.826
+center_z = -22.744
+size_x = 28.500
+size_y = 24.750
+size_z = 21.000
+out = vina_result_flexible_receptor_cutoff_2A.pdbqt
+exhaustiveness = 96
