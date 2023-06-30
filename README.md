@@ -1,4 +1,4 @@
-#Notebook protocols and supplementary data of molecular docking for the article: "Bergenin inhibits amylase and lipid uptake in liver cells
+**Notebook protocols and supplementary data of molecular docking for the article: "Bergenin inhibits amylase and lipid uptake in liver cells**
 
 https://acta.pharmaceutica.farmaceut.org/
 
@@ -9,7 +9,7 @@ https://acta.pharmaceutica.farmaceut.org/
 
 Notebook written at June 30, 2023 by Micael D. L. Oliveira and Kelson M. T. Oliveira who performed all molecular docking simulations and their respectives analysis.
 
-##**References**
+**References**
 
 [1] Eberhardt, J., Santos-Martins, D., Tillack, A. F., & Forli, S. (2021). AutoDock Vina 1.2.0: New Docking Methods, Expanded Force Field, and Python Bindings. In Journal of Chemical Information and Modeling (Vol. 61, Issue 8, pp. 3891–3898). American Chemical Society (ACS). https://doi.org/10.1021/acs.jcim.1c00203
 
