@@ -1,6 +1,5 @@
 # Notebook protocols and supplementary data for molecular docking simulations
-
-## Article: Bergenin inhibits amylase and lipid uptake in liver cells
+## Article: "Bergenin inhibits amylase and lipid uptake in liver cells" 
 
 https://acta.pharmaceutica.farmaceut.org/
 
