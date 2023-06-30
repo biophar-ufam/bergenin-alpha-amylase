@@ -3,7 +3,7 @@
 
 https://acta.pharmaceutica.farmaceut.org/
 
-**Authors:** Diana Mendes do Nascimento <sup>1</sup>, Fabiano Sousa Barbosa <sup>1</sup>, Micael D. L. Oliveira <sup>1</sup>, Kelson M. T. Oliveira <sup>2</sup>, Emersom Silva Lima <sup>1</sup>. 
+**Authors:** Diana Mendes do Nascimento <sup>1</sup>, Fabiano Sousa Barbosa <sup>1</sup>, Micael D. L. Oliveira <sup>1</sup>, Kelson M. T. Oliveira <sup>2</sup>, Emerson Silva Lima <sup>1</sup>. 
 
 <sup>1</sup> Faculty of Pharmaceutical Sciences, Federal University of Amazonas, 69077-000, Manaus, Amazonas, Brazil; 
 
