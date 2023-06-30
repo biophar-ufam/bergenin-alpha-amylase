@@ -13,6 +13,10 @@ https://acta.pharmaceutica.farmaceut.org/
 
 Notebook written at June 30, 2023 by Micael Davi Lima de Oliveira and Kelson Mota Teixeira de Oliveira who performed all molecular docking simulations and their respectives analysis.
 
+<a target="_blank" href="https://colab.research.google.com/github/micael-oliveira-ufam/bergenin_alpha_amylase/">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 # **References**
 
 [1] Eberhardt, J., Santos-Martins, D., Tillack, A. F., & Forli, S. (2021). AutoDock Vina 1.2.0: New Docking Methods, Expanded Force Field, and Python Bindings. In Journal of Chemical Information and Modeling (Vol. 61, Issue 8, pp. 3891–3898). American Chemical Society (ACS). https://doi.org/10.1021/acs.jcim.1c00203
