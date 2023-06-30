@@ -1,13 +1,18 @@
-# **Notebook protocols and supplementary data of molecular docking simulations for the article: "Bergenin inhibits amylase and lipid uptake in liver cells**
+# Notebook protocols and supplementary data for molecular docking simulations
+
+## Article: Bergenin inhibits amylase and lipid uptake in liver cells
 
 https://acta.pharmaceutica.farmaceut.org/
 
-**Authors:** Diana Mendes do Nascimento <sup>1</sup>, Fabiano Sousa Barbosa <sup>1</sup>, Micael D. L. Oliveira <sup>1</sup>, Kelson M. T. Oliveira <sup>2</sup>, Emersom Silva Lima <sup>1</sup>. \\
-<sup>1</sup> Faculty of Pharmaceutical Sciences, Federal University of Amazonas, 69077-000, Manaus, Amazonas, Brazil; \\
-<sup>1</sup> Department of Chemistry, Federal University of Amazonas, 69077-000, Manaus, Amazonas, Brazil. \\
+**Authors:** Diana Mendes do Nascimento <sup>1</sup>, Fabiano Sousa Barbosa <sup>1</sup>, Micael D. L. Oliveira <sup>1</sup>, Kelson M. T. Oliveira <sup>2</sup>, Emersom Silva Lima <sup>1</sup>. 
+
+<sup>1</sup> Faculty of Pharmaceutical Sciences, Federal University of Amazonas, 69077-000, Manaus, Amazonas, Brazil; 
+
+<sup>1</sup> Department of Chemistry, Federal University of Amazonas, 69077-000, Manaus, Amazonas, Brazil. 
+
 *E-mail: eslima@ufam.edu.br
 
-Notebook written at June 30, 2023 by Micael D. L. Oliveira and Kelson M. T. Oliveira who performed all molecular docking simulations and their respectives analysis.
+Notebook written at June 30, 2023 by Micael Davi Lima de Oliveira and Kelson Mota Teixeira de Oliveira who performed all molecular docking simulations and their respectives analysis.
 
 # **References**
 
